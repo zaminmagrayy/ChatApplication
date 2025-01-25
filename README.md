@@ -42,19 +42,19 @@ Set up the Java compiler and runtime environment.
 
 **Steps to Run**
 
-Compile the Files Open a terminal in the project folder and run:
+# Compile the Files - Open a terminal in the project folder and run:
 
-javac ChatServer.java ChatClient.java
+*javac ChatServer.java ChatClient.java*
 
-Run the Server Start the server first:
+# Run the Server:
 
-java ChatServer
+*java ChatServer*
 
 The server will start listening for connections on port 12345.
 
-Run the Client In a separate terminal, start the client:
+# Run the Client In a separate terminal, start the client:
 
-java ChatClient
+*java ChatClient*
 
 The client will connect to the server, and you can begin the chat.
 
