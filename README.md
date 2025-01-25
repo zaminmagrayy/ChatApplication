@@ -14,24 +14,6 @@ Listens on a specified port and facilitates message exchange with the client.
 Acts as the client that connects to the server.
 Sends and receives messages in real-time.
 
-
-README for ChatApplication
-ChatApplication
-This is a simple console-based chat application built in Java using Socket Programming and Multithreading. It allows real-time communication between a server and a client over a TCP connection.
-
-How It Works
-The application consists of two files:
-
-ChatServer.java
-
-Acts as the server to handle incoming connections from clients.
-Listens on a specified port and facilitates message exchange with the client.
-
-ChatClient.java
-
-Acts as the client that connects to the server.
-Sends and receives messages in real-time.
-
 # Features
 
 Real-time text communication between a client and a server.
